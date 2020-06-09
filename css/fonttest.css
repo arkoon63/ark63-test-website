@@ -1,0 +1,12 @@
+body {
+text-align: center;
+}
+
+h1 {
+font-family: robloxfont;
+}
+
+@font-face {
+ font-family: "robloxfont";
+ src: url(../fonts/Cublox-293K.ttf);
+}
