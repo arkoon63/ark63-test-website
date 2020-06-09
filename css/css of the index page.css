@@ -1,0 +1,37 @@
+		#main-header{
+			background-color: tomato;
+		}
+
+		#main-footer{
+			font-size: 50px;
+			font-family: comic sans ms;
+		}
+
+		body{
+		background-image:url("../pics/pic2.gif");
+		background-attachment: fixed;
+		filter: drop-shadow(22px 22px 0.888rem tomato);
+		}
+
+		a {
+			font-size: 67px;
+			color: white;
+			font-family: comic sans ms;
+			transform: rotate(21deg);
+			display: inline-block;
+		}
+
+
+		p{
+		font-size: 45px;
+		font-family: comic sans ms;
+		transform: rotate(21deg);
+		display: inline-block;
+		}
+h1 {
+font-family: comic sans ms;
+transform: rotate(21deg);
+display: inline-block;
+}
+
+</style>
