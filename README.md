@@ -1,2 +1,2 @@
 # ark63-test-website
-my test website where i test some coding stuff lol
+my test website where i test some coding stuff LOL
